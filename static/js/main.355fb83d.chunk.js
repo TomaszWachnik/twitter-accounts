@@ -1,0 +1,2 @@
+(this.webpackJsonptwitter=this.webpackJsonptwitter||[]).push([[0],{9:function(e,t,s){"use strict";s.r(t);s(1);var r=s(3),c=s.n(r),n=s(0),a=function(){return Object(n.jsxs)("div",{className:"wrapper",children:[Object(n.jsx)("h1",{className:"mainHeader",children:"App"}),Object(n.jsx)("h2",{className:"secondaryHeader",children:"test"})]})};c.a.render(Object(n.jsx)(a,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.355fb83d.chunk.js.map
