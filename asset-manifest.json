@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/twitter-accounts/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/twitter-accounts/static/js/main.98fccc9f.chunk.js",
+    "main.js.map": "/twitter-accounts/static/js/main.98fccc9f.chunk.js.map",
+    "runtime-main.js": "/twitter-accounts/static/js/runtime-main.373f5550.js",
+    "runtime-main.js.map": "/twitter-accounts/static/js/runtime-main.373f5550.js.map",
+    "static/js/2.3ff64afd.chunk.js": "/twitter-accounts/static/js/2.3ff64afd.chunk.js",
+    "static/js/2.3ff64afd.chunk.js.map": "/twitter-accounts/static/js/2.3ff64afd.chunk.js.map",
+    "static/js/3.4d10bd33.chunk.js": "/twitter-accounts/static/js/3.4d10bd33.chunk.js",
+    "static/js/3.4d10bd33.chunk.js.map": "/twitter-accounts/static/js/3.4d10bd33.chunk.js.map",
+    "index.html": "/twitter-accounts/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/twitter-accounts/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.3ff64afd.chunk.js.LICENSE.txt": "/twitter-accounts/static/js/2.3ff64afd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/twitter-accounts/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.373f5550.js",
+    "static/js/2.3ff64afd.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.98fccc9f.chunk.js"
+  ]
+}
